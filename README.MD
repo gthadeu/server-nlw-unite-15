@@ -11,8 +11,8 @@
 
 ### Requisitos Funcionais
 
-- [] O participante so pode se inscrever em um evento uma unica vez;
-- [] O participante so pode se inscrever em eventos com vagas disponiveis;
+- [x] O participante so pode se inscrever em um evento uma unica vez;
+- [x] O participante so pode se inscrever em eventos com vagas disponiveis;
 - [] O participante so pode realizar check-in em um evento uma unica vez;
 
 ### Requisitos não-funcionais
